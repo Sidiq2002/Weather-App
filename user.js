@@ -114,4 +114,3 @@ function hideLoading() {
     loading.remove();
   }
 }
-git init
